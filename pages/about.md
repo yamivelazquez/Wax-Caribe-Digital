@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 **Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+Yamilé Velázquez, [20 años](https://www.youtube.com/watch?v=XD77aMyCv0Q)
 
 **Wax is an extensible workflow based on minimal computing principles.**  
 Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
