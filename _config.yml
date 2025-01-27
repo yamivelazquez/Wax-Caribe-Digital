@@ -17,7 +17,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Archivo Yami'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://yamivelazquez.github.io/Wax-Caribe-Digital/'
 baseurl:          '/Wax-Caribe-Digital'
