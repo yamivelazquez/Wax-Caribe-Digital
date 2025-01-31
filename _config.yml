@@ -19,7 +19,7 @@
 
 title:            'Archivo Yami'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://yamivelazquez.github.io/Wax-Caribe-Digital/'
+url:              'https://yamivelazquez.github.io'
 baseurl:          '/Wax-Caribe-Digital'
 copyright:        'Example copyright org, 2023'
 logo:             '/assets/logo.png'
