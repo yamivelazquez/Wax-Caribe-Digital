@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Tur
 order: '00'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/IMG_1258.JPG"
+thumbnail: "Cumpleaños Camila 2004 Santa & Reyes 115.jpg"
 full: "/img/IMG_1258.JPG"
 ---
