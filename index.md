@@ -12,7 +12,7 @@ banner:
 Soy Yamilé Velázquez y tengo [20 años](https://www.youtube.com/watch?v=XD77aMyCv0Q).
 
 Estoy aprendiendo italiano, por lo que si se le da click a mis [20 años](https://www.youtube.com/watch?v=XD77aMyCv0Q), saldrá la canción titualda "Venat'anni" de la banda italiana _Maneskin_. 
-### Browse the Collection
+### Encuentra mis fotos de bebé
 
-#### By Item Type
+#### Clasificaciones
 {% include collection_gallery.html facet_by='object_type' collection='qatar' %}
