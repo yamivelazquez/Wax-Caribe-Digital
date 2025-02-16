@@ -9,10 +9,9 @@ banner:
   height: '500px'
 ---
 
-Yamilé Velázquez, [20 años](https://www.youtube.com/watch?v=XD77aMyCv0Q).
+Soy Yamilé Velázquez y tengo [20 años](https://www.youtube.com/watch?v=XD77aMyCv0Q).
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
-
+Estoy aprendiendo italiano, por lo que si se le da click a mis [20 años](https://www.youtube.com/watch?v=XD77aMyCv0Q), saldrá la canción titualda "Venat'anni" de la banda italiana _Maneskin_. 
 ### Browse the Collection
 
 #### By Item Type
