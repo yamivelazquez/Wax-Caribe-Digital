@@ -10,7 +10,7 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_early_19th_Centur
 order: '09'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg"
+thumbnail: "/img/Cumpleaños Camila 2004 Santa & Reyes 115.jpg"
 full: "/img/Cumpleaños Camila 2004 Santa & Reyes 115.jpg"
 manifest: "/img/Cumpleaños Camila 2004 Santa & Reyes 115.jpg"
 ---
